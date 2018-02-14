@@ -1,0 +1,22 @@
+body {
+  background-color: #EBF4ED;
+  font-family: Helvetica;
+  margin: 60px;
+}
+
+h2 {
+  font-weight: bold;
+  margin: 10px;
+}
+
+h6 {
+  margin: 100px 0 0 0;
+}
+
+p {
+  margin: 10px;
+}
+
+img {
+  margin: 10px;
+}
